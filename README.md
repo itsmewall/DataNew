@@ -18,19 +18,21 @@
 - **Ferramentas de Visualização:** D3.js, Plotly
 
 ## Estrutura do Projeto
+```markdown
 ├── data
-│ ├── raw
-│ └── processed
+│   ├── raw
+│   └── processed
 ├── docs
 ├── src
-│ ├── api
-│ ├── ml_models
-│ ├── processing
-│ └── visualization
+│   ├── api
+│   ├── ml_models
+│   ├── processing
+│   └── visualization
 ├── tests
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
 
 ## Instalação
 1. Clone o repositório:
