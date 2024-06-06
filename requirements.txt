@@ -1,61 +1,61 @@
 # Flask for the web framework
-Flask==2.1.1
+Flask
 
 # Flask extensions
-Flask-RESTful==0.3.9
-Flask-Cors==3.0.10
+Flask-RESTful
+Flask-Cors
 
 # SQLAlchemy for ORM
-SQLAlchemy==1.4.31
-Flask-SQLAlchemy==2.5.1
+SQLAlchemy
+Flask-SQLAlchemy
 
 # PostgreSQL database adapter
-psycopg2-binary==2.9.3
+psycopg2-binary
 
 # For handling environment variables
-python-dotenv==0.19.2
+python-dotenv
 
 # Pandas for data manipulation
-pandas==1.4.2
+pandas
 
 # NumPy for numerical operations
-numpy==1.22.3
+numpy
 
 # Scikit-learn for machine learning
 # scikit-learn==1.0.2
 
 # TensorFlow for deep learning
-tensorflow==2.8.0
+#tensorflow==2.8.0
 
 # PyTorch for deep learning
-torch==1.11.0
+torch
 
 # Requests for making HTTP requests
-requests==2.27.1
+requests
 
 # Matplotlib for data visualization
-matplotlib==3.5.1
+matplotlib
 
 # Plotly for interactive visualizations
-plotly==5.6.0
+plotly
 
 # Jupyter for interactive notebooks
-jupyter==1.0.0
+#jupyter
 
 # Docker for containerization
-docker==5.0.3
+docker
 
 # Flask-Testing for testing
-Flask-Testing==0.8.1
+Flask-Testing
 
 # Pytest for testing
-pytest==7.1.2
-pytest-flask==1.2.0
+pytest
+pytest-flask
 
 # Linter and Formatter
-flake8==4.0.1
-black==22.1.0
+flake8
+black
 
 # Other useful libraries
-click==8.1.3
-gunicorn==20.1.0
+click
+gunicorn

@@ -2,7 +2,7 @@ import requests
 import pandas as pd
 import logging
 
-API_KEY = 'private-api-key'
+API_KEY = 'private-key'
 
 def get_earthdata(start_date, end_date, bbox):
     lon_min, lat_min, lon_max, lat_max = bbox
