@@ -22,5 +22,8 @@ def create_app():
     # Registra blueprints
     from api.endpoints import api_blueprint
     app.register_blueprint(api_blueprint, url_prefix='/api')
+    
+    from api.satellite_endpoints import satellite_blueprint
+    app.register_blueprint(satellite_blueprint, url_prefix='/api')
 
     return app
